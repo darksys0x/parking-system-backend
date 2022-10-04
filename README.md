@@ -12,7 +12,7 @@ Run npm start
 
 
 #Technologies : 
-postgres for db
+postgres for db, and
 nodeJS express 
                
                
