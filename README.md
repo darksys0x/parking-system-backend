@@ -6,12 +6,9 @@
 
 
 # Instructions
-To open the project follow these steps:
-Clone this project
+
 Run npm install
 Run npm start
-
-
 
 
 #Technologies : 
