@@ -7,7 +7,7 @@
 
 # Instructions
 
-Run npm install
+Run npm install and 
 Run npm start
 
 
